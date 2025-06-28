@@ -9,8 +9,7 @@ The objective of this task is to practice using SQL **aggregate functions** such
 ## 🛠️ Tools Used
 
 - MySQL Workbench (Primary)
-- DB Browser for SQLite (Alternative)
-- SQL (MySQL dialect)
+
 
 ---
 
